@@ -1,0 +1,29 @@
+body,button,input,select,textarea{font:12px tahoma, arial, \5b8b\4f53, sans-serif; color:#999;}
+ul,li,input,p,dl,dt,dd,h1,h2,h3,h4,h5,h6{ margin:0; padding:0; list-style:none}
+a{text-decoration:none;color:#333}
+a:hover{ text-decoration:underline;color:#333}
+b{font-weight:normal}
+legend{color:#000}
+fieldset,img{border:0}
+button,input,select,textarea{font-size:100%}
+table{border-spacing:0}
+article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section,summary,time,mark,audio,video{display:block;margin:0;padding:0}
+mark{background:#ff0}
+address, cite, dfn, em, var {font-style: normal; }
+body{margin:0; padding:0;}
+:focus{outline:none}
+.clearfix,.layout,ul.left,dl.left,ol.left{*display:inline;*zoom:1}
+.clearfix:after,.layout:after,ul.left:after,dl.left:after,ol.left:after{content:"";display:table;clear:both}
+ul.left li,ol.left li,dl.left dt,dl.left dd{float:left;display:block;list-style:none}
+.inlinefix,.inline-block{display:inline-block;*display:inline;*zoom:1}
+.breakfix{word-break:keep-all;word-wrap:normal;white-space:nowrap;overflow:visible}
+.breakfix{word-break:break-all;word-wrap:break-word;white-space:normal;overflow:hidden}
+.leftfix{margin-left:-2px}
+.clear{ clear:both; height:0;}
+.txt_r{ text-align:right}
+.txt_c{ text-align:center}
+.txt_l{ text-align:left}
+.red{ color:#ea1e00}
+.green{ color:#390}
+.hide{ display:none}
+.pb20{ padding-bottom:20px}
